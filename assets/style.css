@@ -1,0 +1,20 @@
+.title {
+  background: blue;
+  height: 50px;
+}
+
+header {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}
+
+.table {
+  text-align: center;
+  font-size: 20px;
+}
+
+#form {
+  border-top: 50px solid black;
+}
